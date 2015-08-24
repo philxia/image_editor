@@ -1,0 +1,4 @@
+ImageEditor/bin
+ImageEditor/obj
+*.user
+*.suo
